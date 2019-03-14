@@ -1,0 +1,5 @@
+program gitcviko;
+
+begin
+end.
+
